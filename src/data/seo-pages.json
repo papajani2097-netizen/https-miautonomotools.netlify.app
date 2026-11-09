@@ -1,0 +1,93 @@
+{
+  "/": {
+    "title": "Herramientas gratuitas para autónomos en España",
+    "description": "Calcula impuestos, cuotas, facturas y gastos con herramientas gratuitas diseñadas para autónomos en España.",
+    "name": "Inicio"
+  },
+  "/calculadora-cuota-autonomos/": {
+    "title": "Calculadora de cuota de autónomos",
+    "description": "Calcula el coste mensual y anual a partir de la cuota de autónomos que introduzcas. Herramienta gratuita y orientativa.",
+    "name": "Calculadora de Cuota de Autónomos",
+    "intro": "Introduce la cuota mensual que quieres tener en cuenta y consulta su equivalente anual. Esta herramienta no determina la cuota que te corresponde ni aplica tramos oficiales."
+  },
+  "/calculadora-iva/": {
+    "title": "Calculadora de IVA para autónomos",
+    "description": "Calcula el importe de IVA y el total de una operación indicando la base y el tipo que quieras aplicar.",
+    "name": "Calculadora de IVA",
+    "intro": "Calcula importes de una operación a partir de una base imponible y del tipo de IVA que introduzcas. Comprueba qué tipo corresponde a tu caso antes de usar el resultado."
+  },
+  "/calculadora-irpf/": {
+    "title": "Calculadora de retención de IRPF",
+    "description": "Calcula el importe de una retención introduciendo la base y el porcentaje aplicable a tu caso.",
+    "name": "Calculadora de IRPF",
+    "intro": "Obtén una estimación aritmética de una retención con los datos que indiques. No determina el tipo que debes aplicar ni calcula tu liquidación anual."
+  },
+  "/calculadora-beneficio-neto/": {
+    "title": "Calculadora de beneficio neto para autónomos",
+    "description": "Estima el resultado tras restar gastos, cuota y otros costes que introduzcas a tus ingresos.",
+    "name": "Calculadora de Beneficio Neto",
+    "intro": "Organiza tus ingresos y costes para obtener una estimación sencilla. El resultado depende únicamente de los importes que introduzcas y no sustituye un cálculo contable o fiscal."
+  },
+  "/generador-facturas/": {
+    "title": "Generador de facturas para autónomos",
+    "description": "Prepara una factura imprimible con tus datos, conceptos, tipos e importes introducidos.",
+    "name": "Generador de Facturas",
+    "intro": "Completa los datos de las partes y las líneas de la operación para preparar una factura imprimible. Revisa los requisitos aplicables a tu actividad antes de emitirla."
+  },
+  "/calculadora-impuestos-trimestrales/": {
+    "title": "Calculadora orientativa de impuestos trimestrales",
+    "description": "Agrupa IVA repercutido, IVA soportado y pagos a cuenta con los importes que introduzcas.",
+    "name": "Calculadora de Impuestos Trimestrales",
+    "intro": "Resume importes de IVA y pagos a cuenta que introduzcas manualmente. Es una ayuda para organizar cifras, no una liquidación oficial ni una recomendación fiscal."
+  },
+  "/gastos-deducibles-autonomos/": {
+    "title": "Gastos deducibles para autónomos: guía orientativa",
+    "description": "Claves para organizar y revisar gastos profesionales de autónomos sin sustituir el asesoramiento fiscal.",
+    "name": "Gastos deducibles para autónomos"
+  },
+  "/tarifa-plana-autonomos/": {
+    "title": "Tarifa plana para autónomos: qué conviene comprobar",
+    "description": "Guía para revisar información vigente sobre bonificaciones y tarifa plana antes de tomar decisiones.",
+    "name": "Tarifa plana para autónomos"
+  },
+  "/calendario-fiscal/": {
+    "title": "Calendario fiscal para autónomos",
+    "description": "Organiza tus obligaciones fiscales y consulta los plazos oficiales vigentes en la Agencia Tributaria.",
+    "name": "Calendario fiscal para autónomos"
+  },
+  "/como-ser-autonomo/": {
+    "title": "Cómo ser autónomo en España: guía para empezar",
+    "description": "Una guía inicial para planificar el alta como autónomo y consultar los trámites en fuentes oficiales.",
+    "name": "Cómo ser autónomo en España"
+  },
+  "/blog/": {
+    "title": "Guías para autónomos en España",
+    "description": "Guías prácticas para organizar facturación, gastos y gestiones como autónomo en España.",
+    "name": "Guías para autónomos"
+  },
+  "/sobre-nosotros/": {
+    "title": "Sobre MiAutónomoTools",
+    "description": "Conoce el propósito de MiAutónomoTools y nuestro enfoque de herramientas claras y gratuitas.",
+    "name": "Sobre nosotros"
+  },
+  "/contacto/": {
+    "title": "Contacto",
+    "description": "Información de contacto y consultas sobre MiAutónomoTools.",
+    "name": "Contacto"
+  },
+  "/politica-de-privacidad/": {
+    "title": "Política de privacidad",
+    "description": "Información sobre el tratamiento de datos en MiAutónomoTools.",
+    "name": "Política de privacidad"
+  },
+  "/politica-de-cookies/": {
+    "title": "Política de cookies",
+    "description": "Información sobre cookies y almacenamiento local en MiAutónomoTools.",
+    "name": "Política de cookies"
+  },
+  "/aviso-legal/": {
+    "title": "Aviso legal",
+    "description": "Información legal y condiciones de uso de MiAutónomoTools.",
+    "name": "Aviso legal"
+  }
+}
