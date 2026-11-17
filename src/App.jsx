@@ -6,7 +6,7 @@ import SEO from './components/SEO.jsx';
 import HomePage from './pages/HomePage.jsx';
 import ToolPage from './pages/ToolPage.jsx';
 import ContentPage from './pages/ContentPage.jsx';
-
+import AdsterraBanner from "./components/AdsterraBanner";
 function NotFound() {
   const { pathname } = useLocation();
   return <>
